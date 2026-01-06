@@ -1,4 +1,4 @@
-# Module 9 – Social Engineering Lab Project
+# Social Engineering Lab Project
 
 ## 📌 Overview
 This repository contains my **Module 9 Cybersecurity Lab Project** focused on  
