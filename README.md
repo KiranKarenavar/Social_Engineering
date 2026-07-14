@@ -1,7 +1,6 @@
 # Social Engineering Lab Project
 
-## 📌 Overview
-This repository contains my **Module 9 Cybersecurity Lab Project** focused on  
+## 📌 Overview 
 **Social Engineering, Phishing, Insider Threats, and Identity Theft**.
 
 The project combines **theoretical understanding** with **hands-on exposure** to commonly used social engineering and phishing tools in a **controlled lab environment**.
@@ -60,12 +59,6 @@ Misuse of these tools for illegal or unethical activities is strictly discourage
 - Hands-on exposure to phishing frameworks  
 - Awareness of insider threats  
 - Ethical hacking documentation skills  
-
----
-
-## 👤 Author
-**Kiran Karenavar**  
-Cybersecurity / Ethical Hacking Student  
 
 ---
 
